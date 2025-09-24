@@ -1,0 +1,1 @@
+content://com.rarlab.rar.provider/external_files/Android/data/com.rarlab.rar/files/_rartemp_open_1758753206611/ticket%23484.py
